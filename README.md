@@ -1,0 +1,1 @@
+This will be a sample recipe website, where I will practice HTML, git, and later CSS.
